@@ -1,7 +1,7 @@
 
 # DevOps_tasks
 
-**1. k8s cluster** 
+**1. k8s cluster**   
 Required software on host: 
  - Vagrant  
  - Ansible
@@ -11,3 +11,8 @@ In case of usage Vagrant on MacOS system for k8s Installation use vagrant comman
 cd k8s-3node/
 sudo vagrant up
 ```
+
+**2. Docker LB**  
+Required software on host:
+- Docker
+- docker-compose
